@@ -7,8 +7,7 @@
 - 💬 Ask me about **Html, Css, Javascript**
 
 - 📫 How to reach me **gusyoga1007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
