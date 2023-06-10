@@ -2,7 +2,7 @@
 <h3 align="center">A new developer trying to be as good as possible.</h3>
 
 
-- 🌱 I’m currently learning **React JS, Typescript, Tailwind CSS, NodeJS, GSAP and Best Practice Code.**
+- 🌱 I’m currently learning **Advance Javascript, React JS, Typescript, Tailwind CSS, NodeJS, GSAP and Best Practice Code.**
 
 - 💬 Ask me about **Html, Css, Javascript**
 
