@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Basic & Advance Javascript**
-- 
+  
 - 🌳 Will learn in the future **React JS, Typescript, Tailwind CSS, NodeJS, GSAP**
 
 - 💬 Ask me about **Html, Css, Javascript**
