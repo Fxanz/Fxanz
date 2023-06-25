@@ -2,9 +2,9 @@
 <h3 align="center">A new developer trying to be as good as possible.</h3>
 
 
-- 🌱 I’m currently learning **Basic Python, Advance Javascript, Advance PHP, Git, Terminal**
+- 🌱 I’m currently learning **Advance Javascript, Advance PHP, Git, Terminal**
   
-- 🌳 Will learn in the future **Advance Python, React JS, Typescript, Tailwind CSS, NodeJS, GSAP**
+- 🌳 Will learn in the future **React JS, Typescript, Tailwind CSS, NodeJS, GSAP**
 
 - 📫 How to reach me **gusyoga1007@gmail.com**
 
