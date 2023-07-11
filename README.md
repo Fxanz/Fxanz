@@ -1,5 +1,8 @@
 # 👋 About Me:
-Just an ordinary guy trying to become a web and mobile developer.<br><br>🌱 I’m currently learning Advance Javascript, Advance PHP, Git, Terminal<br><br>🌳 Will learn in the future React JS, Typescript, Tailwind CSS, NodeJS, GSAP<br><br>📫 How to reach me gusyoga1007@gmail.com
+Just an ordinary guy trying to become a web and mobile developer.<br>
+- 🌱 I’m currently learning Advance Javascript, Advance PHP, Git, Terminal<br>
+- 🌳 Will learn in the future React JS, Typescript, Tailwind CSS, NodeJS, GSAP<br>
+- 📫 How to reach me gusyoga1007@gmail.com
 
 
 ## 🌐 Socials:
