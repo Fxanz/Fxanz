@@ -39,5 +39,3 @@ Just an ordinary guy trying to become a web and mobile developer.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fxanz&icon=5&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
