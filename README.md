@@ -5,8 +5,7 @@ Just an ordinary guy trying to become a web and mobile developer.<br>
 - 📫 How to reach me **gusyoga1007@gmail.com**
 
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19746821) 
+## 🌐 Socials: 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fxanzofc) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ifxanz) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC3jL1_S4nWFcStLN3cYAcLA) 
