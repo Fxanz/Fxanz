@@ -33,5 +33,4 @@ Just an ordinary guy trying to become a web and mobile developer.<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Fxanz&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=Fxanz&icon=5&color=11)](https://visitcount.itsvg.in)
