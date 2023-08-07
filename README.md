@@ -5,7 +5,6 @@ Just an ordinary guy trying to become **a web and mobile developer.**<br>
 - 📫 How to reach me **gusyoga1007@gmail.com**
 
 ## 🌐 Socials: 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ifxanz) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/fxanz) 
 
 # 💻 Tech Stack:
