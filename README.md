@@ -6,6 +6,7 @@ Just an ordinary guy trying to become **a web and mobile developer.**<br>
 
 ## 🌐 Socials: 
 
+
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
